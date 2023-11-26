@@ -1,12 +1,6 @@
-# codeclause_gold-price-prediction
-
-[![Python](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue)](https://www.python.org/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-success)](https://scikit-learn.org/stable/)
+# Gold Price Prediction
 
 Welcome to the Gold Price Prediction project! This project aims to predict gold prices using data analysis and machine learning techniques. Accurate gold price predictions are of great importance to investors, financial institutions, and the broader economy.
-
-This project is a part of my AI internship with CodeClause.
 
 ## Table of Contents
 
